@@ -2,30 +2,55 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) in 2022.
 
-# 🛠️ Project Setup
+# 🎨 Giffiti
 
-To get started, clone this repository and install the necessary dependencies by running:
-```bash 
-npm install
-```
- 
-## 🎯 Available Scripts
+Welcome to **Giffiti**! This is a fun and interactive React application that I made to learn reactJs basics, you can search and explore GIFs using the Giphy API. Whether you're looking for a specific GIF or just browsing for inspiration.
 
-In the project directory, you can run:
+---
 
-### ▶️ npm start
+## 🔧 Technologies Used
 
-Start the development server. This will open your app in the browser at http://localhost:3000. The page will automatically reload whenever you make changes, and any lint errors will be displayed in the console.
-```bash 
-npm start
-```
+ - **React**: A JavaScript library for building user interfaces.
+ - **Giphy API**: Used to fetch GIFs based on search queries and trending topics.
+ - **CSS**: For styling the application.
+ - **Axios**: For making HTTP requests to the Giphy API.
 
-### 📦 npm run build
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌟 Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-```bash
-npm run build
+- **Search GIFs**: Easily search for GIFs by entering keywords.
+- **Trending GIFs**: Discover the latest trending GIFs.
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
+- **Lightweight & Fast**: Built with React for a smooth user experience.
+
+---
+
+## 🛠️ Installation
+
+To get started with Giffiti, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/xabierfj/Giffiti.git
+2. **Navigate to the project directory**:
+   ```bash
+   cd Giffiti
+3. **Install dependencies**:
+   ```bash
+   npm install
+4. **Start server**:
+   ```bash
+   npm start
+5. Open your browser and visit http://localhost:3000 to see Giffiti in action
+
+---
+
+## 🚀 Usage
+- Search for GIFs: Enter a keyword in the search bar and press "Enter" to see relevant GIFs.
+- Explore Trending GIFs: Click on the "Trending" section to see the latest popular GIFs.
+- Click to Copy: Click on any GIF to copy its URL to your clipboard.
+
+## 🙏 Acknowledgments
+Thanks to Giphy for providing the awesome API.
+Special thanks to the React community for their incredible tools and resources.
