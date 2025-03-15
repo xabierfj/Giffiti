@@ -1,5 +1,5 @@
 # ⚛️ Getting Started and Acknowledgments
-Thanks to [https://github.com/midudev](Miguel Ángel Durán) for the [https://www.youtube.com/watch?v=QBLbXgeXMU8](React Course for Free)
+Thanks to [Miguel Ángel Durán](https://github.com/midudev) for the [ReacJS Course](https://www.youtube.com/watch?v=QBLbXgeXMU8).
 This project was created in 2022.
 
 ---
